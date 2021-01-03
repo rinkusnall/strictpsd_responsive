@@ -1,0 +1,1 @@
+# strictpsd_responsive
